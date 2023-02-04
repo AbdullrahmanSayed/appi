@@ -11,6 +11,10 @@
     --padding:85px;
     --margin:68.8px;
   }
+  html
+  {
+    overflow-x: hidden;
+  }
 @media(max-width:767px)
 {
     .wc .cz .wb
@@ -543,11 +547,12 @@ ul
 body
 {
     font-family: Roboto, sans-serif;
+    overflow-x: hidden;
 }
 .container
 {
     margin: 0 auto;
-    max-width: 1800px;
+    /* max-width: 1800px; */
 
 
 }
