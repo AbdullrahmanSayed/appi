@@ -145,7 +145,7 @@
     .container .content .cimg img {
        
         width: 212px;
-        margin-top: 529px;
+        margin-top: 360px;
         margin-left: -144px;
     }
     .container .sheader 
@@ -1408,7 +1408,7 @@ color: rgb(45, 44, 44);
 {
     padding: var(--padding);
     background: #e7eaef;
-    height: 65vh;
+  
     margin: 50px 0;
 }
 .section6 .container
@@ -2015,3 +2015,144 @@ padding-bottom: 10px;
     font-weight: bold;
     color:#888;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .header .navber .links 
+{
+    display: flex;
+    position: relative;
+    gap: 40px;
+}
+
+.header .navber .links ul
+{
+list-style: none;
+
+padding-left: 15px;
+
+
+}
+.header .navber ul li
+{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 10px;} */
+
+/* .header .navber ul a
+{
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+}
+.header .navber ul .bot
+{
+   
+    margin-left: 1200px;
+    border-radius: 50px;
+    border: 1px solid rgb(0, 0, 0);
+} */
+
